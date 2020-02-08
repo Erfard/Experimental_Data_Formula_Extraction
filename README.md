@@ -1,2 +1,5 @@
 # Experimental_data_Formula_extract
-extract formula form experimental data
+
+For Fiting ANN and Eq Function  
+  (using forward newton vanilla neural network)
+
